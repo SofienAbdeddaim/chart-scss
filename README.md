@@ -1,5 +1,5 @@
 # ChartScss
-
+![alt text](https://i.gyazo.com/bc28135631f8b1804c8e9a1653def1ce.gif)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server
